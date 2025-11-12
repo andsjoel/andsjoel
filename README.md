@@ -11,18 +11,6 @@
 
 <p align="center">____________</p>
 
-<h4>Um rápido Sobre Mim randômico:</h4>
-:star2:&nbsp;&nbsp;&nbsp;&nbsp; Atualmente estou desenvolvendo um projeto pessoal super legal. Fonte: eu juro!<br>
-:nerd_face:&nbsp;&nbsp;&nbsp;&nbsp; Neste momento devo estar lendo algo sobre <b>Inteligência Artificial</b> ou <b>Astronomia</b><br>
-:dancing_men:&nbsp;&nbsp;&nbsp;&nbsp; Sempre em procura de colaborar em um time e projetos.<br>
-
-<h4>Funs Fact:</h4>
-:cat:&nbsp;&nbsp;&nbsp;&nbsp; Tenho um gato chamado Tanjiro. Sim, igual o protagonista do anime lá.<br>
-:video_game:&nbsp;&nbsp;&nbsp;&nbsp; Gosto muito de jogos virtuais! Ganhar nem sempre é uma virtude.<br>
-:game_die:&nbsp;&nbsp;&nbsp;&nbsp; Sou fã de jogos de tabuleiros e a competitividade saudável entre amigos. <br>
-
-<p align="center">____________</p>
-
 <h3>Linguagens e Ferramentas:</h3>
 <div align="center">
 <img align="center" alt="Html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
